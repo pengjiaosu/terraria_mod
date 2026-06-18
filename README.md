@@ -10,3 +10,5 @@ For any issues, please contact via email: 3091839246@qq.com
 Warning! This mod might make game too easy, but it will lead to some other fun things happening.
 引用自 tModLoader armor：
 Developed By SPJ
+![page1](https://github.com/pengjiaosu/terraria_mod/blob/main/description.png)
+![page2](https://github.com/pengjiaosu/terraria_mod/blob/main/description_.png)
